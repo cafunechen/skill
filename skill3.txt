@@ -1,4 +1,3 @@
-Abstract This paper presents Success-History Based Adaptive
 Differential Evolution Algorithm (SHADE) including Linear
 population size reduction (L-SHADE), enhanced with adaptive
 constraint violation handling, applied to the benchmark for CEC
@@ -36,7 +35,7 @@ A. Differential Evolution and Optimization
 Differential Evolution (DE) was introduced by Storn and
 Price [7] using a floating-point encoding evolutionary algorithm
 [8] for global optimization over continuous spaces.
-There exist several recent surveys and insights with the algorithm��s
+There exist several recent surveys and insights with the algorithm’s
 base name [9], [10], [11], [12], [13], [14] and its
 metaphors [15], [16], [17] stemming from the progress on
 computational mechanisms mainly from the branches of DE.
@@ -58,9 +57,4 @@ these competitions was recently demonstrated in [4] on an
 uniform framework of limited fitness evaluation budget for
 underwater robotics challenge in robust glider path planning,
 showcasing some well known algorithms, like SaDE [26],
-jDE and SPSRDEMMS extensions [27], [3], [12], JADE [28],
-ECHT-DE and applications [29], [30], [31], [32], EPSDE [33],
-CoDE [34], DMS-PSO [35], CLPSO [36], CMAES [37],
-ABC [38], and MABC [39]. The optimization algorithms
-within these 11 algorithmic metaphor expressions were also
-enhanced with a same
+jDE a
